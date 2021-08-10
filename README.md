@@ -1,7 +1,7 @@
 # matty_et_al_2021
 > Analysis package for the paper Matty et al. (2021).
 
-This code weas written and used to analyze tracks of midpoints of populations of *C. elegans* in a sensory integration assay. Most of this code is only useful for this particular set of experiments and will need to be adapted for other uses.
+This code was written and used to analyze tracks of midpoints of populations of *C. elegans* in a sensory integration assay. Most of this code is only useful for this particular set of experiments and will need to be adapted for other uses.
 
 
 ## Software
