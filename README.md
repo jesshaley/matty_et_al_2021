@@ -21,10 +21,8 @@ I used the following software for analysis and figure production:
 
 ## Links
 
-- Paper: 
-- Data Repository: 
+- Paper: https://doi.org/10.1371/journal.pgen.1010178
 - Git Repository: https://github.com/jesshaley/matty_et_al_2021
-- Related projects: 
 
   
 ## Contact
